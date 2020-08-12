@@ -1,7 +1,12 @@
 # 3D-Reconstruction
-To reconstruct geometries of material micro-structures for numerical modelling
 
-![2D](500_500_500_0GNP_GEOM.png)
-![3D](xct.jpg)
-![3D](3D.png)
+This project code can generate geometries filled with non-overlapping or overlapping objects.
+
+Examples
+
+2D Geometry with Non-overlapping Straight Lines.
+![2D](images/2D.png)
+
+3D Geometry with Non-overlapping Amorphous Flakes.
+![3D](images/3D.png)
 
