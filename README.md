@@ -4,10 +4,11 @@ This project code can generate geometries filled with non-overlapping or overlap
 
 Examples
 
-2D Geometry with Non-overlapping Straight Lines.
-
-<img src="images/2D.png" width="500" height="500">
-
-3D Geometry with Non-overlapping Amorphous Flakes.
-
-<img src="images/3D.png" width="800" height="600">
+  2D Geometry with Non-overlapping Straight Lines.
+<center>
+  <img src="images/2D.png" width="500" height="500">
+</center>
+  3D Geometry with Non-overlapping Amorphous Flakes.
+<center>
+  <img src="images/3D.png" width="700" height="600">
+</center>
