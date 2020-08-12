@@ -1,6 +1,6 @@
-# 3D-Reconstruction
+# About the project
 
-This project code can generate geometries filled with non-overlapping or overlapping objects.
+This project code can generate geometries filled with non-overlapping or overlapping objects. THe author developed these codes to generate geometries for micro-structures of graphene nanocomposites, and use them as input geometries for numerical modelling.
 
 Examples
 
